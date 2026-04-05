@@ -33,7 +33,7 @@ const projects = [
   },
   {
     id: 4,
-    title: "Kristal Nočisto Booking System",
+    title: "Kristalno cisto Booking System",
     description: "Full booking system developed from idea to production with dynamic pricing, real-time availability, and comprehensive admin control.",
     tags: ["PHP", "MySQL", "Custom Logic", "Dynamic Pricing", "Admin Dashboard"],
     demo: "https://kristalnocisto.page.gd/?i=1",
